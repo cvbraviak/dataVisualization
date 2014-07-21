@@ -1,0 +1,2 @@
+year,foundationName,individualContributions,programExpenses,ManagementExpenses,TotalExpenses
+2012,AutismSpeaks,58817403,45254523,2737568,64127886

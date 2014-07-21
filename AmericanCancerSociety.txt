@@ -1,0 +1,2 @@
+year,foundationName,individualContributions,programExpenses,ManagementExpenses,TotalExpenses
+2012,AmericanCancerSociety,888582,713491,59361,990489

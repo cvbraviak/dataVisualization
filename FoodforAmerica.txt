@@ -1,0 +1,2 @@
+year,foundationName,individualContributions,programExpenses,ManagementExpenses,TotalExpenses
+2012,FeedingAmerica,1530306,1570531,7434,1602695

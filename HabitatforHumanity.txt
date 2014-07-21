@@ -1,0 +1,2 @@
+year,foundationName,individualContributions,programExpenses,ManagementExpenses,TotalExpenses
+2012,HabitatforHumanity,299546764,277304140,14045584,329602405
