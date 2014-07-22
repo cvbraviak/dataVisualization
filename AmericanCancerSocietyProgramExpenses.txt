@@ -1,0 +1,2 @@
+year,foundationName,programExpenses,PatientSupport,Prevention,Research,Detection/Treatment
+2012,AmericanCancerSociety,713491,303620,152681,160139,97051

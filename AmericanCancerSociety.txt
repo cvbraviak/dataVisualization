@@ -1,2 +1,2 @@
-year,foundationName,individualContributions,programExpenses,ManagementExpenses,TotalExpenses
-2012,AmericanCancerSociety,888582,713491,59361,990489
+year,foundationName,individualContributions,programExpenses,PatientSupport,Prevention,Research,Detection/Treatment,ManagementExpenses,Fundraising,TotalExpenses
+2012,AmericanCancerSociety,888582,713491,303620,152681,160139,97051,59361,217637,990489

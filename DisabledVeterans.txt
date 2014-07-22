@@ -1,2 +1,2 @@
-year,foundationName,individualContributions,programExpenses,ManagementExpenses,TotalExpenses
-2012,DisabledVerteransNationalFoundation,27669915,12605683,2659040,27698827
+year,foundationName,individualContributions,programExpenses,SupportServices,Fundraising,ManagementExpenses,TotalExpenses
+2012,DisabledVerteransNationalFoundation,27669915,12605683,15093144,12434104,2659040,27698827
